@@ -21,10 +21,10 @@ func Subs(number1, number2 int) int {
 
 // Subs two integer numbers
 func Mul(number1, number2 int) int {
-	return number1 - number2
+	return number1 * number2
 }
 
 // Subs two integer numbers
 func Div(number1, number2 int) int {
-	return number1 - number2
+	return number1 / number2
 }
